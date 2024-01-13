@@ -1,0 +1,1 @@
+print("Hello World!","\n5","\nBye","\n",17*15)
