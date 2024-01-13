@@ -6,3 +6,6 @@ variable=float(input())
 
 a=input("Enter the name: ")
 print(a)
+
+b=int(input("Enter the age: "))
+print(b)
